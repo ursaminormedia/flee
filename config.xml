@@ -16,5 +16,7 @@
   <author href="https://play.google.com/store/apps/dev?id=8478351963526734028" email="snipercat72@yahoo.com">
       snipercat72 games
   </author>
+    
+  <platform name="android"/>
 
 </widget>
